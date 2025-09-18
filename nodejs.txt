@@ -1,1 +1,16 @@
 Node.js is an open source cross platform js runtime environment
+
+Js Engine
+Javascript code we write cannot be understood by the computer
+JS engine is a program that converts js code that developers write into machine code that alloows computer to perfoe=rm a specific task
+Js engines are developed by web browser vwndors
+v8- google chrome
+
+v8 JS engine :
+v8 googles open source js engine  
+v8 implements ECMAscript  as specified in ecma-262
+v8 is written in c++ and is used in google chrome the opwn source brower from googlev8 can run standalone or cafn be embeded intoo any c++ applcations
+by embeding v8 innto your own c++ application you can write c__ code that gets eecuted when a user writes js code 
+you can add new feature to js iyself
+since c++ is great for low level operations by embeding v8 into your own c++ program you have the power to add all of thatfunctionality in js
+c++ proram we are talking is node js
