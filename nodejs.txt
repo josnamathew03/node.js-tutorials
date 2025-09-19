@@ -13,4 +13,8 @@ v8 is written in c++ and is used in google chrome the opwn source brower from go
 by embeding v8 innto your own c++ application you can write c__ code that gets eecuted when a user writes js code 
 you can add new feature to js iyself
 since c++ is great for low level operations by embeding v8 into your own c++ program you have the power to add all of thatfunctionality in js
-c++ proram we are talking is node js
+c++ proram we are talking is node js            
+
+Javascriot runtime envirinment which provivery des all necesary components in order to use and run a js programe
+every browser has a js engine 
+a js engine is on ecomponent inhe js runtime
