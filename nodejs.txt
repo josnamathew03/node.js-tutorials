@@ -1,4 +1,4 @@
-Node.js is an open source cross platform js runtime environment
+1]Node.js is an open source cross platform js runtime environment
 
 Js Engine
 Javascript code we write cannot be understood by the computer
@@ -20,7 +20,7 @@ every browser has a js engine
 a js engine is on ecomponent inhe js runtime
 
 
-nodejs
+5] nodejs
 what can you build with nodejs
 - traditional websites 
 -backend services like applcations
@@ -30,10 +30,20 @@ what can you build with nodejs
 -mulktiplayer games
 not a language not a framework
 
-Executing js with node
+6] Executing js with node
 1.Node REPL
 read 
 evaluate 
 print
 loop
 in terminal node
+
+7] browser vs nodejs
+
+
+8]Modules
+it is an encapsulated and reusable chunk of code that has its own context
+in nide each file is treated as a seperate module
+- local modules: modules that we create in our application
+- build in modules- modules that node ships with out of the box
+- third party modules - modules written by othetr developers that we can use in our application
