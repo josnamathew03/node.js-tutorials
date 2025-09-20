@@ -18,3 +18,22 @@ c++ proram we are talking is node js
 Javascriot runtime envirinment which provivery des all necesary components in order to use and run a js programe
 every browser has a js engine 
 a js engine is on ecomponent inhe js runtime
+
+
+nodejs
+what can you build with nodejs
+- traditional websites 
+-backend services like applcations
+- real time applicaitons
+- streaming services
+-cli tools 
+-mulktiplayer games
+not a language not a framework
+
+Executing js with node
+1.Node REPL
+read 
+evaluate 
+print
+loop
+in terminal node
