@@ -47,3 +47,16 @@ in nide each file is treated as a seperate module
 - local modules: modules that we create in our application
 - build in modules- modules that node ships with out of the box
 - third party modules - modules written by othetr developers that we can use in our application
+
+9]locacl modules 
+it is better to split our code use it whenever we wanted by exporting it
+commonjs is a sandard that states how a modules should be structured and shared
+in js each file is a module and is isolated by default
+we can use require and pass in module as a string in brackts
+
+
+
+
+
+
+
