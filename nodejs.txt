@@ -54,9 +54,13 @@ commonjs is a sandard that states how a modules should be structured and shared
 in js each file is a module and is isolated by default
 we can use require and pass in module as a string in brackts
 
+10] module exports
+using mdule we are asking to execute that module
+rihgt way to do this is to expose some functionalities to external files
 
-
-
-
-
-
+11] module scopes
+each module in node hAS its own scope
+IIFE( immedietly invoked function expression in node)
+before a modules code is executed node will wrap it witha function erapper that provides module scope
+this ves us from having to worry about conflicting cariables
+there is proper encapsulation and reusabilty is unaffected
