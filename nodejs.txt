@@ -64,3 +64,13 @@ IIFE( immedietly invoked function expression in node)
 before a modules code is executed node will wrap it witha function erapper that provides module scope
 this ves us from having to worry about conflicting cariables
 there is proper encapsulation and reusabilty is unaffected
+
+12] Module wrapper
+IIFE contain 5 parametrers whichare important for functioning of a module
+(function(exports, require, module, __filename, __dirname){
+    const superHero = "Batman"
+    console.log(siperHero)
+})
+__dirname: folder or directory name of curretn module
+__filename: filename "
+require function: used to import a module by path
